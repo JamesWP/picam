@@ -1,0 +1,6 @@
+[Unit]
+Description=photo script to take and save a photo
+
+[Service]
+ExecStart=/usr/local/bin/photo.py plants
+User=photo
