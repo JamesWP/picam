@@ -2,5 +2,5 @@
 Description=photo script to take and save a photo
 
 [Service]
-ExecStart=/usr/local/bin/photo.py plants
+ExecStart=/usr/local/bin/photo.py cctv
 User=photo
